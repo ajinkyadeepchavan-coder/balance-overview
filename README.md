@@ -28,4 +28,5 @@ Evaluated customer tenure and average age.
 Identified job categories contributing the highest balances.
 
 SCREENSHOT-
+(https://github.com/ajinkyadeepchavan-coder/balance-overview/blob/main/Screenshot%202026-07-20%20215742.png)
 
